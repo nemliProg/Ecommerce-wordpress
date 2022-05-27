@@ -1,0 +1,3 @@
+2022-05-27T15:18:04+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\weglot\src\third\maintenance\class-maintenance-tracking.php on line 1
+
+
